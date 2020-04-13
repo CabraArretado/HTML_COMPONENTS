@@ -1,10 +1,21 @@
-#info {
+.main {
     background-color:#343A40;
     color: cornsilk;
 }
-#body {
-    background-color: rgb(39, 39, 39);
+
+.body {
+    background-color: black;
 }
-h2 {
-    display: inline;
+
+.info {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.info__element--party{
+    color: crimson;
+    font-weight: 1000;
+}
+
+.main__row {
+
 }
