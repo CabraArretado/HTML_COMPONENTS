@@ -17,5 +17,9 @@
 }
 
 .main__row {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
+.row__item {
+    text-align: left;
 }
